@@ -2,8 +2,9 @@
  This Java program is designed to extract all the nouns from a given string. It uses the OpenNLP library to perform POS (Part of Speech) tagging. It then filters out all the nouns (both proper and common) from the tagged words. It also ensures that the output is in lowercase and duplicates are removed.
  ## Prerequisites
  1. Java Development Kit (JDK) 8 or above installed on your machine.
-2. Apache Maven for dependency management.
-3. OpenNLP library.
+    
+3. Apache Maven for dependency management.
+4. OpenNLP library.
  ## Steps to Run
  1. Clone the repository to your local machine.
  2. Navigate to the project directory from the terminal.
